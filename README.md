@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="Attendance Qr Code Plugin WP and Flutter App" src="https://github.com/user-attachments/assets/2b484743-ea9c-4fc2-82af-019d0dfd38c7" />
+
 # Attendance with QR Code - Flutter Mobile App
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.35.5-blue.svg)](https://flutter.dev/)
